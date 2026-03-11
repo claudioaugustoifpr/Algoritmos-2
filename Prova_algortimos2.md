@@ -1,6 +1,8 @@
 # Algoritmos-2
 
 Prova Simulada Algoritmos 2
+#
+
 1)
 O produto escalar entre dois vetores A e B de mesmo tamanho n é definido como:
 A[0]⋅B[0]+A[1]⋅B[1]+⋯+A[n−1]⋅B[n−1]
