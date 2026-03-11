@@ -11,6 +11,8 @@ Seu programa deve conter:
 um método recursivo
 uma condição de parada
 um método main que leia os dados, chame a função e imprima o resultado.
+
+
 2)
 Faça um programa em Java que leia dois números inteiros A e B (com A <= B) e calcule a soma de todos os números pares existentes no intervalo [A, B].
 Se não houver nenhum número par, a soma deve ser 0.
